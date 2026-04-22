@@ -2,9 +2,9 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-}
+}/* also ai tell me how to solve two caed in one line but not useful */
 body{
-  width: 100%;            /* 保证铺满 */
+  width: 100%;            
   margin: 0;  
 }
 .herocontainer{
