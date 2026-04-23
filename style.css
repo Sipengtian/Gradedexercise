@@ -201,6 +201,7 @@ nav a:hover{
   justify-content: center;
   padding: 30px;
   box-sizing: border-box;
+  border: 1px solid #c0d00f;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   transition: transform 0.3s ease;
   flex: 2;
@@ -210,6 +211,7 @@ nav a:hover{
 
 .text-box:hover {
   transform: scale(1.08);
+  background-color: #fff;
 }
 
 .text-box p {
@@ -228,13 +230,6 @@ nav a:hover{
     gap: 20px;
     background-color: #c0d00f;
     padding: 20px;
-}
-.footer-container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-    background-color: #c0d00f;
 }
 @font-face {
   font-family: 'Mansalva';
